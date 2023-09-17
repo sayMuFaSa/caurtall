@@ -2,7 +2,7 @@
 
 ### goals
 
-*No bloat
-*just works
+* No bloat
+* just works
 
 
